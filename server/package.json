@@ -1,0 +1,15 @@
+{
+    "name": "bsbmaint-backend-express",
+    "version": "1.0.0",
+    "description": "Express API server for the BSB Maintenance app",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Coincraft",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.1",
+        "pg": "^7.3.0"
+    }
+}
